@@ -1,0 +1,14 @@
+/*
+   Import partials below
+*/
+@import './normalize'; 
+@import './reset';
+@import './variables.scss';    
+@import './fonts.scss';
+@import './components.scss';
+@import './blocks/styles';
+
+body {
+    font-family: 'Roboto Regular';
+    position: relative;
+}
